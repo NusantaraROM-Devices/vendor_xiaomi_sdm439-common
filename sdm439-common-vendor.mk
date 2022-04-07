@@ -902,7 +902,6 @@ PRODUCT_PACKAGES += \
     libts_face_beautify_hal \
     libloc_api_v02 \
     vendor.qti.hardware.fm@1.0 \
-    SarControllerI \
     CneApp \
     IWlanService \
     TimeService \
